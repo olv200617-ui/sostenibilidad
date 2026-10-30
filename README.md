@@ -1,4 +1,4 @@
-# sostenibilidad
+# SOSTENIBILIDAD
 
 ![badge](https://img.shields.io/badge/sostenibilidad-TICS%20y%20Medio%20Ambiente-blue)
 
